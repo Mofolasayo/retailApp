@@ -1,16 +1,23 @@
 # retail_app
 
-A new Flutter project.
+In this Flutter application, I have implemented a feature that allows users to retrieve retail products from the Timbu API and present them in a scrollable list. Each product entry holds various information such as the name, description, price, and images, providing users with a comprehensive view of the available items. This application serves as a practical example of utilizing APIs, parsing JSON data, and exhibiting the results using Flutter widgets.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Installation
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+Copy code
+git clone https://github.com/your-username/retail-product-app.git
+cd retail-product-app
+Install dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+Copy code
+flutter pub get
+Run the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+Copy code
+flutter run

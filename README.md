@@ -17,6 +17,8 @@ Install dependencies:
 Run the app:
 ```flutter run```
 
+Appetizo: https://appetize.io/app/b_rscg4df7jltvwvygqpqzclfopm
+
 ## Api Integration
 This project uses the Timbu API to fetch product data. 
 ```import 'package:http/http.dart' as http;
@@ -44,4 +46,11 @@ class RetailService {
   }
 }
 ```
+<img width="391" alt="Task 3 image 1" src="https://github.com/Mofolasayo/retailApp/assets/115883934/f9ef2c9b-2c40-4a99-b3dc-4851edec6989">
 
+<img width="391" alt="Task 3 image2" src="https://github.com/Mofolasayo/retailApp/assets/115883934/edbbfbe2-5dc5-4c91-8552-ef911e9f12db">
+
+
+
+
+https://github.com/Mofolasayo/retailApp/assets/115883934/f90b8ae4-84e0-491e-832e-267fff48c13b

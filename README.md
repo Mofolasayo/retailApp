@@ -19,7 +19,7 @@ Run the app:
 
 Appetizo: https://appetize.io/app/b_rscg4df7jltvwvygqpqzclfopm
 
-APK: https://drive.google.com/file/d/1syqsD2pIjxbi20PlnAAYjw0igkroH64q/view?usp=sharing
+
 
 ## Api Integration
 This project uses the Timbu API to fetch product data. 
